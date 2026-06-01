@@ -685,12 +685,12 @@ msgid "Additional data to import."
 msgstr "Données supplémentaires à importer."
 
 #: packages/admin/src/components/settings/ApiTokenSettings.tsx:95
-#: packages/admin/src/components/Sidebar.tsx:441
+#: packages/admin/src/components/Sidebar.tsx:444
 #: packages/admin/src/components/users/roleDefinitions.ts:42
 msgid "Admin"
 msgstr "Admin"
 
-#: packages/admin/src/components/Sidebar.tsx:385
+#: packages/admin/src/components/Sidebar.tsx:388
 msgid "Admin navigation"
 msgstr "Navigation administrateur"
 
@@ -1485,7 +1485,7 @@ msgstr "Connecté {0}"
 #: packages/admin/src/components/Dashboard.tsx:164
 #: packages/admin/src/components/PortableTextEditor.tsx:2006
 #: packages/admin/src/components/SectionEditor.tsx:194
-#: packages/admin/src/components/Sidebar.tsx:419
+#: packages/admin/src/components/Sidebar.tsx:422
 #: packages/admin/src/components/Widgets.tsx:819
 msgid "Content"
 msgstr "Contenu"
@@ -1851,7 +1851,7 @@ msgstr "Sombre"
 #: packages/admin/src/components/ContentTypeList.tsx:246
 #: packages/admin/src/components/Dashboard.tsx:42
 #: packages/admin/src/components/Sidebar.tsx:179
-#: packages/admin/src/components/Sidebar.tsx:408
+#: packages/admin/src/components/Sidebar.tsx:411
 msgid "Dashboard"
 msgstr "Tableau de bord"
 
@@ -3897,7 +3897,7 @@ msgstr "Effectuer des requêtes réseau"
 msgid "Make network requests to any host (unrestricted)"
 msgstr "Effectuer des requêtes réseau vers n'importe quel hôte (sans restriction)"
 
-#: packages/admin/src/components/Sidebar.tsx:431
+#: packages/admin/src/components/Sidebar.tsx:434
 msgid "Manage"
 msgstr "Gérer"
 
@@ -4908,7 +4908,7 @@ msgstr "Module d'extension mis à jour"
 #: packages/admin/src/components/PluginManager.tsx:144
 #: packages/admin/src/components/PluginManager.tsx:153
 #: packages/admin/src/components/Sidebar.tsx:215
-#: packages/admin/src/components/Sidebar.tsx:451
+#: packages/admin/src/components/Sidebar.tsx:454
 msgid "Plugins"
 msgstr "Modules d'extension"
 
